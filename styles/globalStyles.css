@@ -1,0 +1,42 @@
+@import url(index.css);
+@import url(reset.css);
+@import url(dialog.css);
+
+:root {
+    /* BRAND COLORS */
+    --color-brand1: #4c6ef5;
+    --color-brand2: #364FC7;
+
+    /* GRAY COLORS */
+    --color-gray1: #191C1F;
+    --color-gray2: #212529;
+    --color-gray3: #343A40;
+    --color-gray4: #ADB5BD;
+    --color-gray5: #CED4DA;
+    --color-gray6: #EDF2FF;
+    --color-gray7: #F8F9FA;
+
+    /* FONT FAMILY */
+    --font-weight-title: 600;
+    --font-weight-text: 400;
+    --font-weight-text4: 600;
+
+    --font-size-title1: clamp(2.1rem, 1.816rem + 1.068vw, 2.5rem);
+    --font-size-title2: clamp(1.75rem, 1.527rem + 0.595vw, 2.063rem);
+    --font-size-title3: 25px;
+    --font-size-text1: 14px;
+    --font-size-text2: 12px;
+    --font-size-text3: 11px;
+    --font-size-text4: 9px;
+    
+    --line-height-title1: 140%;
+    --line-height-title2: 160%;
+    --line-height-title3: 160%;
+    --line-height-text: 150%;
+
+}
+
+
+
+
+
